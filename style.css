@@ -1,0 +1,36 @@
+  .heading
+  {
+   font-size: 25px; 
+   width: 100%;
+   margin: 0;
+   box-shadow: 5px 5px 5px black;
+   background-color: rgb(236, 125, 203);
+   /*tamanho da fonte, largura, margem zerada, e sombreamento*/
+    
+  }
+  .note
+  {
+   font-size: 12px;
+   font-weight: bold;
+    /*tamanho e cor da fonte*/
+    
+  }
+  .copy_right_footer
+   {
+    position: fixed;
+    bottom: 0;
+    background-color: aliceblue;
+    width: 100%;
+    text-align: center;
+    /* posição fixa na tela, cor de letra e cor de fundo, largura e distância inferior, centralizar*/
+    
+ }
+  canvas 
+  {
+   border: 2px solid rgb(203, 9, 148);
+   box-shadow: 5px 5px 5px black;
+   border-radius: 20px;
+    /*borda, arredondamento de borda e sombreamento*/
+ 
+  }
+ 
